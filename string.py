@@ -1,3 +1,4 @@
+#plus sign operator
 first_name="john"
 last_name="duo"
 full_name=first_name + " " + last_name
